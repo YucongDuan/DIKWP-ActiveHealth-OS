@@ -1,8 +1,10 @@
 # DIKWP ActiveHealth OS
 
-**DIKWP ActiveHealth OS** is an open-source, offline-first proactive medicine and public-health navigation layer. It turns self-reported health data, symptoms, goals, barriers, and evidence into a DIKWP health ledger, red-flag triage boundary, preventive-care conversation plan, clinician handoff note, community outreach queue, and privacy-first action plan.
+Created by Yucong Duan (段玉聪).
 
-It is **not a diagnostic system, not a prescribing system, not a medical device, and not a replacement for clinicians**. It is designed to make proactive medicine more accessible by helping people prepare better questions, identify urgent warning signs, track preventive-care gaps, and preserve consent, evidence, purpose, and uncertainty.
+DIKWP ActiveHealth OS is an open-source, offline-first proactive medicine and public-health navigation layer. It turns self-reported health data, symptoms, goals, barriers, and evidence into a DIKWP health ledger, red-flag triage boundary, preventive-care conversation plan, clinician handoff note, community outreach queue, and privacy-first action plan.
+
+It is not a diagnostic system, not a prescribing system, not a medical device, and not a replacement for clinicians. It is designed to make proactive medicine more accessible by helping people prepare better questions, identify urgent warning signs, track preventive-care gaps, and preserve consent, evidence, purpose, and uncertainty.
 
 ## What it does
 
@@ -57,7 +59,7 @@ streamlit run src/dikwp_activehealth/app.py
 
 ## Medical boundary
 
-This tool does not diagnose disease, calculate individualized treatment, recommend medications, replace screening guidelines, or provide emergency care. In urgent warning-sign scenarios, it only recommends contacting local emergency services or urgent medical care. Preventive-care items are phrased as **questions to discuss with a qualified clinician under local guidelines**.
+This tool does not diagnose disease, calculate individualized treatment, recommend medications, replace screening guidelines, or provide emergency care. In urgent warning-sign scenarios, it only recommends contacting local emergency services or urgent medical care. Preventive-care items are phrased as questions to discuss with a qualified clinician under local guidelines.
 
 ## Attribution
 
